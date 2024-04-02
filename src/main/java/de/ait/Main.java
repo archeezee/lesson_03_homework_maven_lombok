@@ -1,3 +1,5 @@
+package de.ait;
+
 import de.ait.model.User;
 import de.ait.repositories.FileUserRepositoryImpl;
 import de.ait.repositories.UserCrudRepository;
